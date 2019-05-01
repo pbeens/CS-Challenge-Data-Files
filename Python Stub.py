@@ -2,8 +2,11 @@
 
 from urllib.request import urlopen
 
-url = '' # <--- enter the URL here
+url = 'https://raw.githubusercontent.com/pbeens/CS-Challenge-Data-Files/master/ECOO/2016/Round%202/DATA10.txt' # <--- enter the URL here
 
-textFile = urlopen(url).readlines() # adapt for your specific needs >> readline? readlines? read?
+textFile = urlopen(url).read().decode('utf-8') # adapt for your specific needs >> readline? readlines? read?
 
-print(textFile) # Just to check if the data got read in correctly. Delete once you're satisfied eveything is working okay.
+ # Just to check if the data got read in correctly. Delete once you're satisfied everything is working okay.
+lines = textFile.strip().split('\n')
+print(lines)
+print(textFile)
