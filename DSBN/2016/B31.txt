@@ -1,0 +1,29 @@
+WWWWWWWWWWWWWWWWWWWWW
+W    D    D    D    W
+W    DDDDDD    D    W
+W    D    D    D    W
+WDDDDDDDDDDDDDDDDDDDW
+W         D         W
+WDDDDDDDDDD         W
+W         D         W
+WWWWWWWWWWWWWWWWWWWWW
+
+WWWWWWWWWWWWWWWWWWWWW
+W    D         D    W
+W    D         DDDDDW
+W    D         D    W
+WDDDDDDDDDDDDDDDDDDDW
+W                   W
+WDDDDDDDDDDDDDDDDDDDW
+W         D         W
+WWWWWWWWWWWWWWWWWWWWW
+
+WWWWWWWWWWWWWWWWWWWWW
+W    D    D    D    W
+WDDDDDDDDDD    D    W
+W    D    D    D    W
+WDDDDDDDDDD    D    W
+W              D    W
+WDDDDDDDDDDDDDDD    W
+W              D    W
+WWWWWWWWWWWWWWWWWWWWW
