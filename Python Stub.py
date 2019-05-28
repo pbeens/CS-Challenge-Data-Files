@@ -13,4 +13,4 @@ lines = urlopen(url).readlines() # adapt for your specific needs >> readline? re
 
 # let's see what we've got...
 for line in lines:
-    print(line)
+    print(line.decode().strip())
