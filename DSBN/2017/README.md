@@ -1,0 +1,1 @@
+The challenge questions for these data files are available [here](https://docs.google.com/document/d/10jAEC5URSWgf7-zPtmMqWTj3hqNL-q5ghXz6_2VnDGA/edit#).
