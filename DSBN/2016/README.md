@@ -4,4 +4,4 @@ The challenge questions for these data files are available [here](https://docs.g
 
 See [here](https://github.com/pbeens/CS-Challenge-Data-Files/blob/master/Python%20Stub.py) for how to read in the data files using Python. 
 
-See [here](https://sites.google.com/view/programmingchallenges/home) for additional challenges.
+Additional challenges are available [here](https://sites.google.com/view/programmingchallenges/home).
