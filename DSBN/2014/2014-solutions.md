@@ -1,7 +1,25 @@
-﻿# Niagara Region Secondary School Programming Contest 2014 Brock University Solutions 
+﻿# Niagara Region Secondary School Programming Contest 2014 Brock University Solutions
+
+<!-- TOC depthFrom:2 -->
+
+- [Niagara Region Secondary School Programming Contest 2014 Brock University Solutions](#niagara-region-secondary-school-programming-contest-2014-brock-university-solutions)
+  - [Question A1 - “Weighty Words”](#question-a1---weighty-words)
+  - [Question A2 - “XO Square”](#question-a2---xo-square)
+  - [Question A3 - “Lucky Sum”](#question-a3---lucky-sum)
+  - [Question A4 - “The Software Solution”](#question-a4---the-software-solution)
+  - [Question B1 - “It’s a Small Facebook World”](#question-b1---its-a-small-facebook-world)
+  - [Question B2 - “Who Wins?”](#question-b2---who-wins)
+  - [Question B3 - “Narcissistic Number”](#question-b3---narcissistic-number)
+  - [Question B4 - “Collatz Conjecture”](#question-b4---collatz-conjecture)
+  - [Question C1 - “How Many Letters?”](#question-c1---how-many-letters)
+  - [Question C2 - “Happy Bird”](#question-c2---happy-bird)
+  - [Question C3 - “Driving Me Crazy”](#question-c3---driving-me-crazy)
+
+<!-- /TOC -->
 
 ## Question A1 - “Weighty Words”
 
+~~~~
 Keyboard Input
 
 Attempt #1
@@ -23,9 +41,11 @@ STAMFORD CROSSLEY
 Output: 
 
 CROSSLEY 116 
+~~~~
 
 ## Question A2 - “XO Square” 
 
+~~~~
 Keyboard Input 
 
 Attempt #1 
@@ -46,10 +66,12 @@ Input:
 
 Output: 
 
-XXXX 
+XXXX
+~~~~
 
 ## Question A3 - “Lucky Sum” 
 
+~~~~
 Keyboard Input 
 
 Attempt #1 
@@ -71,9 +93,11 @@ Input:
 Output: 
 
 29 
+~~~~
 
 ## Question A4 - “The Software Solution” 
 
+~~~~
 Keyboard Input 
 
 Attempt #1 
@@ -95,9 +119,11 @@ Input:
 Output: 
 
 10 units of software 5 software/monitor bundles 
+~~~~
 
 ## Question B1 - “It’s a Small Facebook World” 
 
+~~~~
 File Input 
 
 Attempt #1 
@@ -120,9 +146,11 @@ From B12.txt: 1 1.2 1.4 2 -4.5 -5.4 3 3.1 5.9 4 -0.07 6.06 5 100.55 -0.99
 Output: 
 
 1 4,3,2 2 1,4,3 3 4,1,2 4 3,1,2 5 3,1,4 
+~~~~
 
 ## Question B2 - “Who Wins?” 
 
+~~~~
 File Input 
 
 Attempt #1 
@@ -143,10 +171,12 @@ From B22.txt: \<team list too long to print\>
 
 Output: 
 
-x wins most often. 
+x wins most often.
+~~~~ 
 
 ## Question B3 - “Narcissistic Number” 
 
+~~~~
 Keyboard Input 
 
 Attempt #1 
@@ -168,9 +198,11 @@ Input:
 Output: 
 
 548834 1741725 
+~~~~
 
 ## Question B4 - “Collatz Conjecture” 
 
+~~~~
 Keyboard Input 
 
 Attempt #1 
@@ -192,9 +224,11 @@ Input:
 Output: 
 
 42, 21, 64, 32, 16, 8, 4, 2, 1 8 steps 
+~~~~
 
 ## Question C1 - “How Many Letters?” 
 
+~~~~
 File Input 
 
 Attempt #1 
@@ -216,9 +250,11 @@ From C12.txt: \<paragraph too long to print\> {Brave New World - Huxley}
 Output: 
 
 t t t t n t n t e i n t e i no t e i no t e i no t a e i no r t a e i no r t a de i no r t a de i no rst a de hi l no rst y a cde hi l no rst y a cde hi l no rst y a cde hi lmno rstu y a cde ghi lmno rstu y abcdefghi lmno rstu w y abcdefghi lmno qrstuvw y 
+~~~~
 
 ## Question C2 - “Happy Bird” 
 
+~~~~
 File Input 
 
 Attempt #1 
@@ -238,9 +274,11 @@ From C22.txt: 0.25 0.25 1.25 -0.25 3.75 0.25 5.5 -0.25
 Output: 
 
 a = -0.06 b = 0.51 c = -1.16 d = 0.51 
+~~~~
 
 ## Question C3 - “Driving Me Crazy” 
 
+~~~~
 File Input 
 
 Attempt #1 
@@ -263,3 +301,4 @@ Output: (*may not be accurate*)
 
 ---------------------------8--34-----------------1----------
 ----1-------2-------3-------4----565432------------8-----43-
+~~~~
