@@ -1,4 +1,21 @@
-﻿## Niagara Region Secondary School 2017 Programming Contest Solutions
+﻿# Niagara Region Secondary School 2017 Programming Contest Solutions
+
+<!-- TOC depthFrom:2 -->
+
+- [Niagara Region Secondary School 2017 Programming Contest Solutions](#niagara-region-secondary-school-2017-programming-contest-solutions)
+  - [Question A1 - “The Imperial Incident”](#question-a1---the-imperial-incident)
+  - [Question A2 - “X Marks the Spot”](#question-a2---x-marks-the-spot)
+  - [Question A3 - “Child’s Play”](#question-a3---childs-play)
+  - [Question A4 - “Curling Calculations”](#question-a4---curling-calculations)
+  - [Question B1 - “Not Playing With a Full Deck”](#question-b1---not-playing-with-a-full-deck)
+  - [Question B2 - “Analog’s Revenge”](#question-b2---analogs-revenge)
+  - [Question B3 - “Musical Chairs”](#question-b3---musical-chairs)
+  - [Question B4 - “Three Swypes to the Wind”](#question-b4---three-swypes-to-the-wind)
+  - [Question C1 - “Pixel Perfect Pool”](#question-c1---pixel-perfect-pool)
+  - [Question C2 - “Ridiculous Regatta”](#question-c2---ridiculous-regatta)
+  - [Question C3 - “The Taxman”](#question-c3---the-taxman)
+
+<!-- /TOC -->
 
 ## Question A1 - “The Imperial Incident”
 
