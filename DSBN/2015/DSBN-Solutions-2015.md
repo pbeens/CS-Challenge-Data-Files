@@ -1,5 +1,21 @@
-﻿## Niagara Region Secondary School 2015 Programming Contest Solutions
+﻿# Niagara Region Secondary School 2015 Programming Contest Solutions
 
+<!-- TOC depthFrom:2 -->
+
+- [Niagara Region Secondary School 2015 Programming Contest Solutions](#niagara-region-secondary-school-2015-programming-contest-solutions)
+  - [Question A1 - “Phone Home”](#question-a1---phone-home)
+  - [Question A2 - “Kelvin Konundrum”](#question-a2---kelvin-konundrum)
+  - [Question A3 - “Floyd’s Follies”](#question-a3---floyds-follies)
+  - [Question A4 - “Euchrefuffle”](#question-a4---euchrefuffle)
+  - [Question B1 - “Floating Down the BitStream”](#question-b1---floating-down-the-bitstream)
+  - [Question B2 - “Tex Hex”](#question-b2---tex-hex)
+  - [Question B3 - “Troubling Trigrams”](#question-b3---troubling-trigrams)
+  - [Question B4 - “Recurring Nightmare”](#question-b4---recurring-nightmare)
+  - [Question C1 - “Zip Line”](#question-c1---zip-line)
+  - [Question C2 - “Circular Reasoning”](#question-c2---circular-reasoning)
+  - [Question C3 - “Please Find Your Seat”](#question-c3---please-find-your-seat)
+
+<!-- /TOC -->
 ## Question A1 - “Phone Home”
 
 ~~~~
