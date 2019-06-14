@@ -1,4 +1,22 @@
-﻿## Niagara Region Secondary School 2013 Programming Contest Solutions
+﻿# 0.1. Niagara Region Secondary School 2013 Programming Contest Solutions
+
+<!-- TOC depthFrom:2 -->
+
+- [0.1. Niagara Region Secondary School 2013 Programming Contest Solutions](#01-niagara-region-secondary-school-2013-programming-contest-solutions)
+  - [Question A1 - “Digits, Digits, Digits”](#question-a1---digits-digits-digits)
+  - [Question A2 - “Text Message”](#question-a2---text-message)
+  - [Question A3 - “Bow Tie”](#question-a3---bow-tie)
+  - [Question A4 - “Taxing Taxes”](#question-a4---taxing-taxes)
+  - [Question B1 - “Bermuda Triangle Club”](#question-b1---bermuda-triangle-club)
+  - [Question B2 - “Courageous Crusade”](#question-b2---courageous-crusade)
+  - [Question B3 - “Bit by Bit”](#question-b3---bit-by-bit)
+  - [Question B3 - “Bit by Bit” (continued)](#question-b3---bit-by-bit-continued)
+  - [Question B4 - “Tomb Raider”](#question-b4---tomb-raider)
+  - [Question C1 - "Prime Time"](#question-c1---%22prime-time%22)
+  - [Question C2 - “Virtual Keyboard”](#question-c2---virtual-keyboard)
+  - [Question C3 - “Tet-risk!”](#question-c3---tet-risk)
+
+<!-- /TOC -->
 
 ## Question A1 - “Digits, Digits, Digits”
 
@@ -283,7 +301,7 @@ This tomb is straight.
 This tomb is straight.
 ~~~~
 
-## Question C1
+## Question C1 - "Prime Time"
 
 ~~~~
 File Input
