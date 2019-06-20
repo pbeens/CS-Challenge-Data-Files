@@ -1,0 +1,15 @@
+          ----- Start
+          |
+          |
+    X  X     X  X  X  X  X  X  X
+    X           X              X
+    X     X           X     X  X
+    X     X     X  X           X
+    X     X        X     X     X
+    X     X  X  X           X  X
+    X     X           X        X
+    X     X     X  X  X  X  X  X
+    X     X                    X
+    X  X  X  X  X  X  X  X  |  X
+                            |
+                End     -----
